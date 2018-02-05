@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteProject</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_viewList">View Data</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save</string>
+</resources>
